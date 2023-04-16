@@ -1,5 +1,6 @@
 belt
-couchdoor
+couch
+door
 elbow
 microwave
 nose
